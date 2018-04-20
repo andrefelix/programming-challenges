@@ -1,3 +1,3 @@
 # programming-challenges
 
-Algoritmos para resoluções de competições de programação.
+Algoritmos de resoluções em competições de programação.
